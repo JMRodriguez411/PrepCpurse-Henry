@@ -1,2 +1,1 @@
-# PrepCpurse-Henry
-Este es un repositorio de prueba del módulo 2
+Este proyecto es una prueba de cómo clonar un repositorio desde gitHub a mi escrotrio local
